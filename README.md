@@ -24,7 +24,7 @@ Allumer
 </button>
 
 <button onclick="fetch('http://IP_ESP32/led')">
-Éteindre
+Allumer
 </button>
 ```
 
